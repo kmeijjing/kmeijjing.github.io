@@ -27,7 +27,7 @@ Homebrew가 설치되었다면, 아래 명령르로 mysql 명칭과 버전을 �
 ```zsh
 $ brew search mysql
 ```
-![brew_search_mysql](../assets/img/brew_search_mysql.png)
+![brew_search_mysql](/assets/img/brew_search_mysql.png)
 
 저는 `mysql@8.0`을 설치해보겠습니다.
 
@@ -39,7 +39,7 @@ $ brew search mysql
 ```zsh
 $ brew install mysql@8.0
 ```
-![brew_insall_mysql](../assets/img/brew_insall_mysql@8.0.png)
+![brew_insall_mysql](/assets/img/brew_insall_mysql@8.0.png)
 
 ### 3-2. 환경변수 설정하기
 아래 명령으로 환경변수를 입력합니다.   
@@ -54,7 +54,7 @@ $ source ~/.zshrc
 ```zsh
 $ mysql --version
 ```
-![mysql_version](../assets/img/mysql_version.png)
+![mysql_version](/assets/img/mysql_version.png)
 
 ### 3-4. 초기 설정하기
 ```zsh
